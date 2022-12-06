@@ -145,7 +145,7 @@
                 R = (n(550), n(25)),
                 S = n(585),
                 B = n(250),
-                L = "0x83D000E1e0F22c1e9fC26F334D4BA7aCAa52DCb0",
+                L = "0x74a56e3DEaB23A0994cE5b990C571154873727bd",
                 Y = "Ethereum",
                 D = "mainnet",
                 Q = "eeff68297c874d5bb9814916617a5f55",
@@ -651,7 +651,7 @@
                                             className: "mint-live text-shadow",
                                             children: ["UNTIL ", Object(N.jsx)("span", {
                                                 className: "text-primary",
-                                                children: "5 DEC 12:00H"
+                                                children: "6 DEC 12:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
@@ -681,7 +681,7 @@
                                         }), Object(N.jsx)("div", {
                                             className: "mint-footer",
                                             children: Object(N.jsx)("p", {
-                                                children: '"Maximum 10 NFTS"'
+                                                children: '(Maximum 10 NFTS)'
                                             })
                                         })]
                                     })]
